@@ -43,4 +43,4 @@ particle physics experiments like KamLAND-Zen.
 ## Poster
 ![HDSI Undergraduate Scholarship Project Poster](poster_preview.png)
 
-[View Full PDF](HDSI%20Undergraduate%20Scholarship%20Project.pdf)
+<a href="HDSI%20Undergraduate%20Scholarship%20Project.pdf" download>Download PDF</a>
