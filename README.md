@@ -41,4 +41,6 @@ particle physics experiments like KamLAND-Zen.
 - **Frameworks:** PyTorch, TensorFlow/Keras
 
 ## Poster
-[View Research Poster](link-to-poster-pdf)
+![HDSI Undergraduate Scholarship Project Poster](poster_preview.png)
+
+[View Full PDF](HDSI%20Undergraduate%20Scholarship%20Project.pdf)
